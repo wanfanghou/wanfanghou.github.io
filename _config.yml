@@ -44,6 +44,7 @@ author:
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
+  zhihu            : "https://www.zhihu.com/people/1574878204"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +67,6 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
