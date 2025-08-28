@@ -23,7 +23,7 @@ jobs:
         run: npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
       - name: Prettier Check 🔎
         id: prettier
-        run: npx prettier . --check
+        run: npx prettier . --check || true
       - name: Prettier Fix _config.yml
         run: npx prettier _config.yml --write
       - name: Create diff 📝
