@@ -9,9 +9,7 @@ profile:
   image: hwf_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Master student at [NJU IM](https://im.nju.edu.cn/), advised by [Prof. Lele Kang](https://im.nju.edu.cn/kll1/list.htm)</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    Master student at [NJU IM](https://im.nju.edu.cn/), advised by [Prof. Lele Kang](https://im.nju.edu.cn/kll1/list.htm).
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
