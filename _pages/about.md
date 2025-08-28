@@ -27,7 +27,7 @@ latest_posts:
 
 `Email`: houwf@smail.nju.edu.cn
 
-`Links`: [Google Scholar](https://scholar.google.com/citations?user=WQ3wqpEAAAAJ&hl=zh-CN)/Github/Zhihu
+`Links`: [Google Scholar](https://scholar.google.com/citations?user=WQ3wqpEAAAAJ&hl=zh-CN)/[Github](https://github.com/wanfanghou)/[Zhihu](https://www.zhihu.com/people/1574878204)
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
